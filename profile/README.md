@@ -1,7 +1,7 @@
 # Applied Mathematics Seminar 📚
 
 Welcome to the **Applied Mathematics Seminar** repository! This space is dedicated to the exploration and discussion of various topics within the field of applied mathematics. 
-Whether you’re interested in the theoretical underpinnings or the practical applications of mathematical concepts, this seminar covers it all.:grinning:
+Whether you’re interested in the theoretical underpinnings or the practical applications of mathematical concepts, this seminar covers it all. :grinning:
 
 ## What We Do 🧮
 
