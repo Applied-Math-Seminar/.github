@@ -20,9 +20,16 @@ From understanding the foundational theories to exploring its real-world applica
 ## Seminar Schedule 🗓️
 Our seminars are held every Friday from 8:30 PM to 10:30 PM (Beijing Time). Make sure to join us for insightful discussions and presentations!
 
-## Useful Resources 📚
+## How to Register 📝
+If you’re interested in joining our seminar, please send an email to **cgy@zju.edu.cn** with your name and a brief introduction of your research interests.  
+We will contact you once we receive your email and invite you to join our **WeChat discussion group** for better communication.  
+Therefore, if possible, please include your **WeChat ID or phone number** in your email.
 
-- **[Seminar Schedule](#)**: Keep an eye on upcoming sessions and topics.
+
+
+## Useful Resources 📚
+- **[Previous Seminars](https://github.com/Applied-Math-Seminar/Applied-Math-Seminar)**: Links to previous seminars.
+- **[Seminar Schedule](https://github.com/Applied-Math-Seminar/Applied-Math-Seminar)**: Keep an eye on upcoming sessions and topics.
 - **[Seminar Repositories](https://github.com/Applied-Math-Seminar/Applied-Math-Seminar)**: Links to key papers discussed during the seminars.
 
 ## Fun Facts 🎉
