@@ -10,8 +10,8 @@ In our seminar, we’ve already covered a wide range of fascinating topics in ap
 1. Stochastic Differential Equations (SDE) and Stochastic Partial Differential Equations (SPDE)
 2. Optimal Transport
 3. Inverse Problems
-4. Discontinuous Finite Element Methods (DFEM)
-5. Stochastic Control
+4. Discontinuous Galerkin Methods (DFEM)
+5. Stochastic Control, Optimal Control
 6. etc.
    
 Looking ahead, we are excited to dive into various theoretical and applied aspects of Deep Learning. 
