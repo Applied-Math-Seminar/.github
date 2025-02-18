@@ -18,10 +18,10 @@ Whether you’re interested in the **theoretical underpinnings** 🧐 or the **p
 In our seminar, we’ve already covered a **wide range** of fascinating topics in applied mathematics, including:
 
 1️⃣ **Stochastic Differential Equations (SDE) & Stochastic Partial Differential Equations (SPDE)**  
-2️⃣ **Optimal Transport**  
-3️⃣ **Inverse Problems**  
-4️⃣ **Discontinuous Galerkin Methods (DFEM)**  
-5️⃣ **Stochastic Control & Optimal Control**  
+2️⃣ **Inverse Problems** 
+3️⃣ **Optimization Methods** 
+4️⃣ **Artificial Intelligence and its Mathematical Theory** 
+5️⃣ **Reinforcement Learning & Optimal Control**  
 6️⃣ **... and many more! 🚀**  
 
 🔜 Looking ahead, we are **excited** to dive into various theoretical and applied aspects of **Deep Learning 🤖**!  
