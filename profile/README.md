@@ -38,7 +38,7 @@ From understanding **foundational theories** to exploring its **applications**, 
 
 ## 📝 How to Register  
 
-If you’re interested in joining our seminar 🤗, **send an email** to 📧 **szxu@math.cuhk.edu.hk** with:  
+If you’re interested in joining our seminar 🤗, **send an email** to 📧 **1762927943@qq.com** with:  
 ✅ **Your Name** 🏷️  
 ✅ **A brief introduction of your research interests** 📑  
 
